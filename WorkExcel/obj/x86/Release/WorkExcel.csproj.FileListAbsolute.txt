@@ -1,0 +1,14 @@
+D:\Projects_C#\WorkExcel\WorkExcel\bin\Release\WorkExcel.exe
+D:\Projects_C#\WorkExcel\WorkExcel\bin\Release\WorkExcel.pdb
+D:\Projects_C#\WorkExcel\WorkExcel\obj\x86\Release\WorkExcel.Properties.Resources.resources
+D:\Projects_C#\WorkExcel\WorkExcel\obj\x86\Release\WorkExcel.csproj.GenerateResource.Cache
+D:\Projects_C#\WorkExcel\WorkExcel\obj\x86\Release\WorkExcel.exe
+D:\Projects_C#\WorkExcel\WorkExcel\obj\x86\Release\WorkExcel.pdb
+D:\Projects_C#\WorkExcel\WorkExcel\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\Projects_C#\WorkExcel\WorkExcel\bin\Release\NPOI.dll
+D:\Projects_C#\WorkExcel\WorkExcel\bin\Release\NPOI.OOXML.dll
+D:\Projects_C#\WorkExcel\WorkExcel\bin\Release\NPOI.OpenXml4Net.dll
+D:\Projects_C#\WorkExcel\WorkExcel\bin\Release\NPOI.OpenXmlFormats.dll
+D:\Projects_C#\WorkExcel\WorkExcel\bin\Release\NPOI.xml
+D:\Projects_C#\WorkExcel\WorkExcel\obj\x86\Release\WorkExcel.csprojResolveAssemblyReference.cache
+D:\Projects_C#\WorkExcel\WorkExcel\obj\x86\Release\WorkExcel.Form1.resources
